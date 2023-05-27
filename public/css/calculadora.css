@@ -1,0 +1,15 @@
+/*Hoja de estilos de calculadora*/
+
+/*Botones*/
+.btn-group button {
+    /*Que cada boton ocupe el 25% de largo del div*/
+    width: 25%;
+    /*Que cada boton tenga 75 px de ancho */
+    height: 75px;
+}
+
+/*Display de impresion de valo9res y resultados*/
+.form-control input {
+    /*De ancho 75 px*/
+    height: 75px;
+}
